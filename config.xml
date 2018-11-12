@@ -60,7 +60,8 @@
     <preference name="SplashMaintainAspectRatio" value="true" />
     <preference name="SplashScreenDelay" value="15000" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
-        <gap:plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-             release">
+    <gap:plugin name="cordova-android-support-gradle-release" spec="github.com/dpa99c/cordova-android-support-gradle-release">
+<variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
 
         <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
 
